@@ -6,7 +6,9 @@
 
 |||Phone|+79111692075|
 | :- | -: | :- | :- |
-|Country|Российская Федерация|Email|bogdanliovin@gmail.com|
+|Country|Российская Федерация|Email|
+|Instagram|@bohdanliovin|Email|
+bogdanliovin@gmail.com|
 |City|Санкт-Петербург||
 
 ||
