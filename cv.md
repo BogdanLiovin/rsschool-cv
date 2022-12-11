@@ -1,6 +1,6 @@
 #Bogdan Liovin
 
-|<p>**Богдан**  **Лёвин**</p><p>Веб-разработчик</p>|![Photo](Aspose.Words.50cf8266-cab2-4316-841b-22b5d2db7eda.001.jpeg)|
+|<p>**Богдан**  **Лёвин**</p><p>web-developer</p>|![Photo](Aspose.Words.50cf8266-cab2-4316-841b-22b5d2db7eda.001.jpeg)|
 | :- | :- |
 |||
 
